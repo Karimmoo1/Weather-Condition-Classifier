@@ -39,5 +39,5 @@ A convolutional neural network that recognizes 11 different weather phenomena—
 
 ---
 
-## requirements.txt
+
 
